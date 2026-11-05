@@ -1,0 +1,20 @@
+.container{
+    width: 50%;
+    margin: auto;
+    text-align: center;
+    display: flex;
+    margin-top: 10%;
+    overflow: hidden;
+}
+
+#myimg{
+    margin: left 0%; ;
+
+}
+
+img{
+    width: 100%;
+    margin: auto;
+    transition-duration: 2s;
+    transition-property: margin-left;
+}
